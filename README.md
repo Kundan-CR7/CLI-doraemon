@@ -66,8 +66,3 @@ npx ts-node index.ts
 To see all available commands and options, run:
 
 doraemon --help
-
-## About
-
-This project was developed as part of a CLI development workshop to demonstrate how command line tools can be built using Node.js and TypeScript.
-EOF
